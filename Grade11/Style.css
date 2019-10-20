@@ -1,0 +1,28 @@
+
+
+.web-col-one{
+		background-color: #F58965;
+	}
+.nav-link{color: #FFFFFF;}
+.body-web-col{
+		background-color: #81679B;
+	}
+p{
+		font-size: 30px;
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+.nav-web-col-two{
+	background-color: #413A41;
+}
+.web-col-three{
+	background-color: #FA9564;
+}
+.web-col-four{
+	background-color: #4F4150;
+	color: #FFFFFF;
+}
+
+ul{
+	font-size: 20px;
+}
