@@ -5,13 +5,17 @@
 	}
 .nav-link{color: #FFFFFF;}
 .body-web-col{
-		background-color: #81679B;
+		background-color: #FA9564;
 	}
 p{
 		font-size: 30px;
 		margin-left: 10%;
 		margin-right: 10%;
+		color: #FFFFFF;
 	}
+p.con{ color: #000000;
+font-size: 20px;
+}
 .nav-web-col-two{
 	background-color: #413A41;
 }
